@@ -2,7 +2,7 @@
 
 -----DONT FORGET TO ADD YOUR GEMINI API KEY iN CONFIG FILE BEFORE USING IT----------
 
-<img src="image.png" alt="My cool logo"/>
+<img src="image.png" alt="MyImage"/>
 
 🔥 Swamped by endless reading? Let DOCX-BOT turn your document chaos into crystal-clear clarity in seconds!
 
